@@ -1,0 +1,27 @@
+* Intro:
+1. Software/Setup
+   - Operating System, applications, browser TLDR
+   - What is terminal/bash
+   - Practical: homebrew, git(hub), editor, terminal setup
+2. Internet/Networking Crash course
+   - How does internet work?
+   - client/server (how webserver works aka. how website works)
+   - HTML+CSS+JS files hand to browser
+   - Walk through website request (HTTPie)
+3. HTML
+   - Markup language vs. general purpose
+   - tags + content
+4. CSS
+   - Cascading Style Sheet
+   - styling
+5. JavaScript
+   - General purpose language that your browser can run
+   - scripting
+6. Chrome dev tools - look at real website
+
+* Website
+- Add Google Analytics
+- samfender.com
+- single cover centered with black padding
+- white icons
+- album covers behind

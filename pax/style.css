@@ -1,0 +1,21 @@
+/*html {
+  width: 100%;
+  height: 100%;
+}*/
+
+body {
+    height: 2000px;
+}
+
+.im {
+    width: 1000px;
+    top: 0;
+    left: 0;
+    position: fixed;
+    z-index: -1;
+    background: url(bubbles1.png) 5% 50% no-repeat;
+}
+
+#i1 {
+    left: 200px;
+}
